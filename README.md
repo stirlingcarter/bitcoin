@@ -14,4 +14,11 @@ Sources:
       r/bitcoinmining
       
       r/bitmarket
-Can you see this?
+
+      
+  Twitter Accounts
+    
+    Bitcoin Twitter Accounts
+    
+      @redditBTC
+
