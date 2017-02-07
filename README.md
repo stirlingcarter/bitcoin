@@ -3,6 +3,10 @@ bitcoin analytics
 
 Sources:
 
+  Wikis:
+  
+  https://en.bitcoin.it/wiki/Quantum_computing_and_Bitcoin
+
   Subreddits
   
     Bitcoin Subreddits 
