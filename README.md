@@ -8,6 +8,8 @@ Sources:
   https://en.bitcoin.it/wiki/Quantum_computing_and_Bitcoin
   
   https://bitcoin.org/bitcoin.pdf
+  
+  http://wmstudios.com.au/index.php/news/blog/106-bitcoin-at-a-crossroads
 
   Subreddits
   
