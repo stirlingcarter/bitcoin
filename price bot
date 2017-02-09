@@ -1,5 +1,6 @@
 Bot that analyzes price:
 
-5% change in 30 mins - alert
-8% change in one hour - alert 
-10% change in 2 hours - alert
+5% change over 30 mins - alert
+8% change over one hour - alert 
+10% change over 2 hours - alert
+15% change over 24 hours - alert
