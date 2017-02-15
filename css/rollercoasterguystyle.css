@@ -1,0 +1,45 @@
+body {
+    background: url("../images/what-if-its-a-space-rollercoaster.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.here-we-go {
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.navbar-bottom {
+    height: auto;
+    /* .push must be the same height as .footer */
+    background-color: #28364f;
+}
+
+.push {
+    height: 150px;
+    /* .push must be the same height as .footer */
+}
+
+.transparent {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.transparent:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.fixed-container {
+    min-height: 220px;
+    max-height: 350px;
+}
