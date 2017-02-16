@@ -30,3 +30,10 @@ Sources:
     
       @redditBTC
 
+What we know:
+
+-jQuery is a js library
+
+What we want to know:
+
+-how to link html and python
