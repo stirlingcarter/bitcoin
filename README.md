@@ -1,1 +1,1 @@
-A growing compilation of resources for analyzing cryptocurrency markets 
+# A growing compilation of resources for analyzing cryptocurrency markets 
